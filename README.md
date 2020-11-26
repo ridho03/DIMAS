@@ -1,8 +1,8 @@
 # 🤖RIDHO🤖
 
 #SISTEM SEDANG DI SEWA
-BOT WHATSAPP TERMUX ONLY BY ARIS187 ID
 
+BOT WHATSAPP TERMUX ONLY BY RIDHO SETIAWAN
 ### Alat dan Bahan
 Siapin alat dan bahannya.
 ```bash
