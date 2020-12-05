@@ -72,6 +72,10 @@ Ket: Aktiv 24 jam
 ## Note
 BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (RIDHO SETIAWAN)
 
+##THANKS TO
+[`ST4RZ`](https://github.com/Bintang73)
+[`ARIS187 ID`](https://github.com/A187ID)
+
 ## Sosial Media Admin
 * [`Youtube Admin`](https://www.youtube.com/c/Lowoijo)
 * [`Instagram Admin`](https://instagram.com/ridho_setiawan02)
